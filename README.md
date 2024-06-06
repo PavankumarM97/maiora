@@ -35,4 +35,4 @@ Follow the steps below to run the script:
 
 ## Notes
 - Make sure to replace sensitive information such as passwords with environment variables or other secure methods in a production environment.
-- Ensure that your PostgreSQL server is running and accessible before running the scripts.
+- Ensure that PostgreSQL server is running and accessible before running the scripts.
